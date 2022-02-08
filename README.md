@@ -9,4 +9,5 @@
 
 4.퀴즈를 다풀면 맞춘갯수와 틀린갯수표시
 
-![스크린샷 2022-02-08 오후 7 22 03](https://user-images.githubusercontent.com/91593937/152968369-03844239-2a28-40c9-9f5a-67a3af7ec1cb.png)
+![스크린샷 2022-02-08 오후 7 22 03](https://user-images.githubusercontent.com/91593937/152968369-03844239-2a28-40c9-9f5a-67a3af7ec1cb.png)![스크린샷 2022-02-08 오후 7 22 29](https://user-images.githubusercontent.com/91593937/152968612-e9ef8a45-4a76-4d88-85e2-1faa7296ccaf.png)
+
